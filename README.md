@@ -2,9 +2,10 @@
 
 ## Project info
 
-**URL**: https://leonardojacobson.netlify.app
+**URL**: https://leonardo-jacobson.vercel.app/
 
-## preview: ![image](https://github.com/user-attachments/assets/33d7d1a6-dc94-4471-be3e-865c31a2b733)
+## preview: <img width="1470" alt="Screenshot 2025-05-01 at 11 13 31 AM" src="https://github.com/user-attachments/assets/cea4b935-264c-4003-8df6-7231be702881" />
+
 
 
 **Edit a file directly in GitHub**
