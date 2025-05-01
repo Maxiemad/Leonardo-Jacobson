@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://leonardo-jacobson.vercel.app/
+**URL**: [https://leonardo-jacobson.vercel.app/](https://leonardo-jacobson-aia7.vercel.app/)
 
 ## preview: <img width="1470" alt="Screenshot 2025-05-01 at 11 13 31 AM" src="https://github.com/user-attachments/assets/cea4b935-264c-4003-8df6-7231be702881" />
 
