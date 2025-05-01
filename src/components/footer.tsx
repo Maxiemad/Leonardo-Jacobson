@@ -49,7 +49,7 @@ const Footer = () => {
               <li><a href="#" className="text-gray-600 hover:text-presence-600">Home</a></li>
               <li><a href="https://www.leonardjacobson.com/teachings/Q-and-A" className="text-gray-600 hover:text-presence-600">Q&A</a></li>
               <li><a href="https://www.amazon.com/Leonard-Jacobson/e/B00OW24G16" className="text-gray-600 hover:text-presence-600">Books</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-presence-600">Events</a></li>
+              <li><a href="https://www.leonardjacobson.com/events" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-presence-600">Events</a></li>
             </ul>
           </div>
           
@@ -58,7 +58,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="text-gray-600">Email: info@leonardjacobson.com</li>
               <li><a href="https://www.leonardjacobson.com/contactleonard" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-presence-600">Contact Form</a></li>
-              <li><a href="#" className="text-gray-600 hover:text-presence-600">Support</a></li>
+              <li><a href="https://www.leonardjacobson.com/askleonard" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-presence-600">Support</a></li>
             </ul>
           </div>
         </div>

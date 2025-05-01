@@ -1,4 +1,3 @@
-
 import React from 'react';
 import AnimatedSection from './animated-section';
 import CustomButton from './custom-button';
@@ -23,7 +22,7 @@ const OfferingCard: React.FC<OfferingCardProps> = ({ title, description, icon, d
       </div>
       <CustomButton 
         variant="ghost" 
-        className="flex items-center group"
+        className="flex items-center group text-white"
       >
         Explore More
         <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
